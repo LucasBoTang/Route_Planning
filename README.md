@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains the C++ code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
 
